@@ -141,7 +141,7 @@ export const metadata: Metadata = {
     ],
   },
   openGraph: {
-    title: "LoudEar agency",
+    title: "LoudEar Agency",
     description:
       "Welcome to LoudEar Agency, your digital partner. We offer content marketing, graphic design, web design, IT consulting, and brand identity services",
     url: `${currentUrl}`,

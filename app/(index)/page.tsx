@@ -7,7 +7,7 @@ import Testimonials from "./sections/testimonials";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Pixelo agency",
+  title: "LoudEar Agency",
 };
 
 export default function Home() {
